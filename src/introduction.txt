@@ -1,0 +1,4 @@
+**** let's setup colors for the project from the figma
+# let's use the color 
+#font style setup
+#component create 
